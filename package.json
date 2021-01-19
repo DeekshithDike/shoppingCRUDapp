@@ -2,10 +2,10 @@
   "name": "shoppingcrudapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "npm index.js",
-    "server": "nodemon index.js"
+    "start": "npm app.js",
+    "server": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
